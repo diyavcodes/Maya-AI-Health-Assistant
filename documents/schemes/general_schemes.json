@@ -1,0 +1,83 @@
+[
+{
+  "scheme_name": "Ayushman Bharat Scheme PM-JAY",
+  "category": "Health",
+  "applicable_state": "National",
+  "target_audience": "Over 12 crore poor and vulnerable entitled families (approximately 55 crore beneficiaries) are eligible for these benefits.",
+  "launched_by": "Central Government",
+  "objective": "PM-JAY provides cashless access to health care services for the beneficiary at the point of service, that is, the hospital.",
+  "eligibility": "PMJAY eligibility covers rural and urban poor based on deprivation criteria like SC/ST status, disability, age (70+), manual labor, and lack of income or housing.",
+  "benefits": "It provides a cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization across public and private empanelled hospitals in India.",
+  "documents_required": "Aadhaar Card: Mandatory for identification, biometric verification, and e-KYC.  Proof of Residence: A Ration Card is a common option for verifying your address. Family Details: Names and Aadhaar numbers of your family members. Contact Information: A registered mobile number and an email ID.",
+  "how_to_apply": "Check your eligibility on pmjay.gov.in, then visit an empanelled hospital or CSC if eligible.",
+  "application_link": "pmjay.gov.in",
+  "official_pdf": "https://nha.gov.in/img/resources/HBP-2.2-manual.pdf",
+  "helpline": "14555 / 1800111565"
+},
+
+
+{
+  "scheme_name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+  "category": "Health",
+  "applicable_state": "National",
+  "target_audience": "The scheme offers cash support for wage loss during childbirth, encourages health-seeking behavior among pregnant women and lactating mothers, and promotes the value of the girl child through an extra incentive for a second girl child.",
+  "launched_by": "Central Government",
+  "objective": "Financial support for pregnant and lactating mothers is to improve the health and nutrition for mother and child as well as compensation for wage loss",
+  "eligibility": "Socially and economically disadvantaged women—such as those from scheduled castes or tribes, disabled, BPL card holders, PMJAY, E-shram, MGNREGA, and Kishan Samman Nidhi beneficiaries, or with family income under ₹8 lakh—are eligible for PMMVY, excluding those already receiving similar benefits from government employment.",
+  "benefits": "Benefits include ₹5,000 for the first child in two instalments, and ₹6,000 for a girl child if she is the second child",
+  "documents_required": "At registration, beneficiaries must upload documents like Aadhaar, bank details, MCP/RCHI card, and proof of eligibility such as BPL card, e-Shram card, PMJAY, MGNREGA, Kisan Samman Nidhi, disability certificate, caste certificate (SC/ST), income proof (below ₹8 lakh), or NFSA ration card.",
+  "how_to_apply": "Eligible women can apply for PMMVY by visiting the nearest Anganwadi or health center, submitting the filled form with documents, or registering online through the PMMVY portal or with the help of an Anganwadi/ASHA worker.",
+  "application_link": "https://pmmvy.wcd.gov.in/",
+  "official_pdf": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/jan/doc20221195901.pdf",
+  "helpline": "14408"
+},
+
+{
+  "scheme_name": "Janani Suraksha Yojana",
+  "category": "Health",
+  "applicable_state": "National",
+  "target_audience": "The scheme focuses on poor pregnant woman with a special dispensation for states that have low institutional delivery rates, namely, the states of Uttar Pradesh, Uttarakhand, Bihar, Jharkhand, Madhya Pradesh, Chhattisgarh, Assam, Rajasthan, Odisha, and Jammu and Kashmir.",
+  "launched_by": "Central Government",
+  "objective": "Reducing maternal and infant mortality by promoting institutional delivery among pregnant women, especially with weak socio-economic status i.e. women from Scheduled Castes, Scheduled Tribes and BPL households.",
+  "eligibility": "To be eligible for the Janani Suraksha Yojana (JSY), a pregnant woman must be 19 years of age or older, belong to a Below Poverty Line (BPL) or Scheduled Caste/Scheduled Tribe (SC/ST) household, and deliver in a government health facility or accredited private institution. ",
+  "benefits": "Under the Janani Suraksha Yojana (JSY), beneficiaries get cash assistance of ₹1,400 for women opting for institutional delivery in rural areas and ₹1,000 in urban areas, besides incentives of up to Rs 600 to ASHA workers",
+  "documents_required": "To access Janani Suraksha Yojana benefits, submit Aadhaar, address and bank details, and post-delivery documents like the discharge slip or birth certificate; BPL or SC/ST women may also need a ration card and caste certificate.",
+  "how_to_apply": "To avail the scheme benefits, contact your nearest health care facility or contact your ASHA worker or Anganwadi centre.",
+  "application_link": "https://www.nhm.gov.in/",
+  "official_pdf": "https://nhm.gov.in/WriteReadData/l892s/97827133331523438951.pdf",
+  "helpline": "104"
+},
+
+
+{
+  "scheme_name": "Nikshay Poshan Yojana",
+  "category": "Health",
+  "applicable_state": "National",
+  "target_audience": "The Nikshay Poshan Yojana targets all tuberculosis (TB) patients who are notified and registered on the NIKSHAY portal after April 1, 2018, to provide them with monthly financial assistance for nutritional support during their treatment.",
+  "launched_by": "Central Government",
+  "objective": "The main objective of the Nikshay Poshan Yojana (NPY) is to provide financial assistance to all notified tuberculosis (TB) patients in India for their nutrition, thereby reducing malnutrition, improving treatment and outcomes, and reducing TB mortality in the country.",
+  "eligibility": "All TB patients notified on or after April 1, 2018, and registered on the NIKSHAY portal are eligible for financial incentives.",
+  "benefits": "An amount of ₹1,000/- per month for each notified TB patient.",
+  "documents_required": "Submit proof of an active, Aadhaar-linked savings bank account (passbook copy, cancelled cheque, or statement) and optionally a copy of Aadhaar or Aadhaar enrolment receipt.",
+  "how_to_apply": "To apply for Nikshay Poshan Yojana, register as a TB patient on the Nikshay portal and submit your bank details, which health staff enter into PFMS for validation before the support amount is sent to your Aadhaar-linked account.",
+  "application_link": "https://www.nikshay.in/",
+  "official_pdf": "https://tbcindia.mohfw.gov.in/wp-content/uploads/2023/05/6851513623Nutrition-support-DBT-Scheme-details.pdf",
+  "helpline": "1800116666"
+},
+
+{
+  "scheme_name": "Mukhyamantri Chiranjeevi Swasthya Beema Yojana",
+  "category": "Health",
+  "applicable_state": "Rajasthan",
+  "target_audience": "Residents of Rajasthan, including families listed in the National Food Security Act (NFSA) and Socio-Economic Caste Census (SECC) 2011 , small and marginal farmers, and state government contractual employees, who get free health insurance.",
+  "launched_by": "Rajasthan Government",
+  "objective": "The scheme aims to provide universal health coverage in Rajasthan, ensuring free quality treatment and financial protection for all families, especially the economically weaker sections, in empanelled hospitals.",
+  "eligibility": "The main criteria to be eligible for Chiranjeevi Health Insurance Scheme Rajasthan is to be a permanent resident of Rajasthan. Others who are eligible for this scheme are SECC 2011 registered families, all other families, NFSA card holders, small farmers, and all department Samvida workers.",
+  "benefits": "Each Rajasthan family gets cashless treatment up to ₹25 lakh; the state pays the premium for eligible groups, while others pay ₹850 annually",
+  "documents_required": "A Jan Aadhar Card or its registration receipt and an Aadhaar card number are mandatory for availing the scheme.",
+  "how_to_apply": "Eligible beneficiaries can register for the Chiranjeevi Yojana through the portal or E-Mitra using Jan Aadhaar and Aadhaar, with free registration for select categories and ₹850 annual premium for others",
+  "application_link": "https://chiranjeeviapp.rajasthan.gov.in/webapp/",
+  "official_pdf": "",
+  "helpline": "1800-180-6127"
+}
+]
