@@ -211,7 +211,7 @@ if section == "Alerts":
         "Telangana","Tripura","Uttar Pradesh","Uttarakhand","West Bengal","Delhi","Jammu & Kashmir",
         "Ladakh","Puducherry","Chandigarh"
     ]
-    selected_states = st.sidebar.multiselect("Select states to track:", all_states, default=["Assam","Gujarat"])
+    selected_states = st.sidebar.multiselect("Select states to track:", all_states)
 
     try:
         url = "https://idsp.mohfw.gov.in/index4.php?lang=1&level=0&linkid=406&lid=3689"
