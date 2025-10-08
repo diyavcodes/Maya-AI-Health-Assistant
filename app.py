@@ -14,14 +14,14 @@ import datetime
 
 # ---------------- Load Environment ---------------- #
 load_dotenv()
-gemini_api_key = os.getenv("GOOGLE_API_KEY")
+api_key = os.getenv("GOOGLE_API_KEY")
 
 try:
     from langchain_google_genai import ChatGoogleGenerativeAI as GeminiLLM
 except ImportError:
     from langchain_google_genai import GoogleGenerativeAI as GeminiLLM
 
-llm = GeminiLLM(model="gemini-2.0-flash", temperature=0.4, google_api_key=gemini_api_key)
+llm = GeminiLLM(model="gemini-2.0-flash", temperature=0.4, google_api_key=api_key)
 
 # ---------------- Page Setup ---------------- #
 st.set_page_config(page_title="Maya Chatbot", layout="wide")

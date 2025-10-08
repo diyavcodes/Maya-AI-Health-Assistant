@@ -8,7 +8,7 @@ from langchain.schema import Document
 import os
 from dotenv import load_dotenv
 load_dotenv()
-gemini_api_key = os.getenv("GOOGLE_API_KEY")
+api_key = os.getenv("GOOGLE_API_KEY")
 
 
 
@@ -49,9 +49,9 @@ def detect_script_language(text):
 def build_rag_chain(vector_db, context_type="all"):
     retriever=vector_db.as_retriever(search_type="similarity", search_kwargs={"k": 10})
 
-    if gemini_api_key:
+    if api_key:
         print("[DEBUG] Gemini API Key loaded successfully.")
-        llm = GeminiLLM(model="gemini-2.0-flash", temperature=0.4, google_api_key=gemini_api_key)
+        llm = GeminiLLM(model="gemini-2.0-flash", temperature=0.4, google_api_key=api_key)
     else:
         print("[WARNING] GOOGLE_API_KEY not found in .env! Falling back to ADC credentials.")
         llm = GeminiLLM(model="gemini-2.0-flash", temperature=0.4)
